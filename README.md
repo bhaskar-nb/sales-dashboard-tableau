@@ -1,8 +1,10 @@
-# 📊 Sales Dashboard | Tableau
+# 📊 Sales Performance Dashboard | Tableau
 
 ## Project Overview
 
-This project is an interactive **Sales Dashboard** developed using **Tableau** to analyze business performance through key sales metrics and visual insights. The dashboard enables users to monitor sales trends, profitability, regional performance, and customer behavior using dynamic charts and interactive filters.
+## Project Overview
+
+Developed an interactive Tableau dashboard to analyze sales performance across products, categories, regions, and time periods. The dashboard provides key business insights through dynamic visualizations and interactive filters, helping users monitor performance and support data-driven decision-making.
 
 ---
 
@@ -11,24 +13,18 @@ This project is an interactive **Sales Dashboard** developed using **Tableau** t
 ![Sales Dashboard](Dashboard.png)
 
 ---
+## Business Problem
 
-## Project Objectives
-
-* Analyze overall sales performance.
-* Monitor profit across different regions and product categories.
-* Identify high-performing and underperforming products.
-* Track sales trends over time.
-* Enable data-driven business decision-making through interactive visualizations.
-
+Businesses generate large volumes of sales data, making it difficult to monitor performance and identify trends through raw spreadsheets alone. This dashboard provides a centralized view of key sales metrics, enabling users to evaluate regional performance, product profitability, and sales trends to support informed business decisions.
 ---
 
 ## Key Performance Indicators (KPIs)
 
-* 💰 Total Sales
-* 📈 Total Profit
-* 📦 Total Orders
-* 📊 Profit Margin
-* 🛒 Average Order Value
+*  Total Sales
+*  Total Profit
+*  Total Quantity
+*  Sales and Profits by category
+*  Sales and Profit Trends over the years
 
 ---
 
@@ -36,9 +32,7 @@ This project is an interactive **Sales Dashboard** developed using **Tableau** t
 
 * Interactive filters for customized analysis
 * Sales trend analysis over time
-* Region-wise sales and profit comparison
 * Category and sub-category performance analysis
-* Customer insights
 * Business performance overview
 * Clean, interactive, and user-friendly dashboard design
 
@@ -56,26 +50,33 @@ The dashboard is built using the following datasets:
 These datasets were connected and modeled in Tableau to create a unified sales analysis dashboard.
 
 ---
-
 ## Tools & Technologies
 
-* Tableau
-* CSV Datasets
-* Data Visualization
-* Dashboard Design
-
+- **Visualization:** Tableau
+- **Data Source:** CSV Files
+- **Data Preparation:** Data Cleaning, Data Transformation
+- **Techniques:** Dashboard Design, KPI Analysis, Interactive Filtering
 ---
 
-## Business Insights
+## Skills Demonstrated
 
-This dashboard helps answer questions such as:
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+- KPI Analysis
+- Business Intelligence
+- Trend Analysis
+- Interactive Dashboard Design
+- Data Storytelling
 
-* Which regions generate the highest sales and profit?
-* Which product categories contribute the most revenue?
-* How do sales change over time?
-* Which products or regions require improvement?
-* What are the overall business performance trends?
+## Key Business Insights
 
+The dashboard enables users to:
+
+- Evaluate sales and profitability across different categories to identify top-performing markets.
+- Compare product categories and sub-categories to understand revenue and profit contribution.
+- Monitor sales trends over time to identify seasonal patterns and business growth.
+- Identify underperforming products that may require business attention.
 ---
 
 ## Repository Structure
@@ -108,7 +109,6 @@ Sales Dashboard/
 * Interactive Tableau dashboard
 * Multiple KPIs for business monitoring
 * Sales and profit analysis
-* Regional performance comparison
 * Product category insights
 * Clean and intuitive dashboard layout
 
@@ -116,8 +116,12 @@ Sales Dashboard/
 
 ## Author
 
-**Bhaskar N**
+**Nakka Bhaskar Gangadhar**
 
-* GitHub: https://github.com/bhaskar-nb
+- GitHub: https://github.com/bhaskar-nb
+- LinkedIn: https://www.linkedin.com/in/bhaskar-nakka-43a701259/
+- Tableau Public: https://public.tableau.com/app/profile/bhaskar.nakka4980
 
-If you found this project useful, feel free to ⭐ the repository.
+---
+
+If you found this project useful, consider giving it a ⭐.
