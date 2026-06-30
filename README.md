@@ -8,7 +8,7 @@ This project is an interactive **Sales Dashboard** developed using **Tableau** t
 
 ## Dashboard Preview
 
-Dashboard.png
+![Sales Dashboard](Dashboard.png)
 
 ---
 
