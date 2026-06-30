@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-## Project Overview
-
 Developed an interactive Tableau dashboard to analyze sales performance across products, categories, regions, and time periods. The dashboard provides key business insights through dynamic visualizations and interactive filters, helping users monitor performance and support data-driven decision-making.
 
 ---
